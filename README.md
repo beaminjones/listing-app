@@ -15,6 +15,14 @@ Este projeto é uma reprodução da tela de listagem de motéis da aba **"Ir Ago
 
 ---
 
+## Demonstração do App
+
+Aqui está uma demonstração em GIF do funcionamento do app:
+
+![GIF de Demonstração do App](screenshots/motel_listing_app_gif.gif)
+
+---
+
 ## 📸 Screenshots
 
 Aqui estão algumas imagens do aplicativo em funcionamento:
